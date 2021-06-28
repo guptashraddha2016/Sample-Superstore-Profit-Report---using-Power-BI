@@ -6,4 +6,5 @@
   
 # Explaination 
   In this dashboard profit represent by reagion, segment and  category using Pie Chart.
+  Trend Line is representing   growth of profit by year.
   
